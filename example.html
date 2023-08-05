@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>example</title>
+    <link rel="stylesheet" href="lib/alert/alert.css">
+    <script src="lib/alert/alert.js"></script>
+    <link rel="stylesheet" href="lib/confirm/confirm.css">
+    <script src="lib/confirm/confirm.js"></script>
+</head>
+<body>
+<button onclick="onClickAlert()">showAlert</button>
+<button onclick="onClickConfirm()">showConfirm</button>
+
+<script>
+    function onClickAlert() {
+        showAlert('小心中暑！！', {
+
+        })
+    }
+
+    function onClickConfirm() {
+        showConfirm('重置密码后，将自动返回登录页，确定重置吗？', {
+
+        })
+    }
+</script>
+</body>
+</html>
