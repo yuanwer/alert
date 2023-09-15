@@ -1,6 +1,8 @@
 # alert.js & confirm.js
 
-此插件提供统一的 UI，解决了不同浏览器中 alert 和 confirm 弹窗外观不一致的问题。
+此插件提供统一的 UI，解决了不同浏览器中 alert 和 confirm 弹窗外观不一致的问题（当前版本在IE浏览器中保证功能正常，但样式有细微的区别）。
+
+[ChangeLog](./ChangeLog.md)
 
 ## 如何使用
 
