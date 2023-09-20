@@ -44,10 +44,6 @@
     line-height: 1;
 }
 
-.c-confirm-button:hover {
-    opacity: 0.8;
-}
-
 .c-confirm-ok {
     border: 1px solid #0ebebc;
     background-color: #0ebebc;

@@ -44,11 +44,6 @@
     line-height: 1;
 }
 
-
-.c-alert-button:hover {
-    opacity: 0.8;
-}
-
 .c-alert-ok {
     border: 1px solid #0ebebc;
     background-color: #0ebebc;
